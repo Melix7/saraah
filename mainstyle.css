@@ -1,0 +1,15 @@
+*{
+    font-family:arial;
+}
+
+h1{
+    color: blueviolet;
+}
+body{
+    background-color:red;
+}
+ui{
+    text-decoration: none;
+    list-style: none;
+    background-color: aqua;
+}
