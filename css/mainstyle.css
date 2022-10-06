@@ -1,0 +1,40 @@
+*{
+    font-family:arial;
+}
+
+h1{
+    color: blueviolet;
+}
+body{
+    background-color:red;
+}
+ui{
+    text-decoration: none;
+    list-style: none;
+    background-color: aqua;
+}
+.samplediv{
+    background-color:rosybrown ;
+    width: 100px;
+    height: 100px;
+    float:left;
+    margin-left: 20px;
+    padding:20px;
+}
+.maindiv{
+    width: 50%;
+    height: auto;
+    margin: auto;
+}
+ul{
+    width: 200px;
+    list-style-type: none;
+    line-height: 40px;
+    
+
+}
+menu{
+    float:left;
+    background-color: aquamarine;
+    width: 12%;
+}
